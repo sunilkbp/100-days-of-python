@@ -1,0 +1,4 @@
+This is Regex Sample File to learn the python like like Lenore regex
+This will be built based on requirement. Nevermore Like
+DisLike the statement. You need to  Like
+I like writing python Lenore program

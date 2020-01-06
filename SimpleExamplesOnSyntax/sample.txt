@@ -1,0 +1,4 @@
+This is Sample File with text input
+Line number 2
+Line number 3 contain so many data
+Yes its easy.. python is for easy peoples
